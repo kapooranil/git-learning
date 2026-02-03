@@ -1,2 +1,2 @@
 ﻿# Conflict Lab
-line-to-conflict
+line-from-B
